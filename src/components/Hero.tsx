@@ -10,7 +10,7 @@ export default function Hero() {
             Bon Vivant Resort, Nashik
           </p>
           <h1 className="max-w-2xl px-6 font-serif text-4xl font-light leading-tight sm:text-6xl">
-            The Art of Living Well
+            Live Well Bon Vivant
           </h1>
         </div>
       </div>
